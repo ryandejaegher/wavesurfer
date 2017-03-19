@@ -1,0 +1,9 @@
+<script src="//cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/1.3.2/wavesurfer.min.js"></script>
+<div id="waveform"></div>
+
+<script>
+var wavesurfer = WaveSurfer.create({
+    container: '#waveform'
+});
+wavesurfer.load('cutesong.mp3');
+</script>
