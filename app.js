@@ -14,6 +14,7 @@ var wavesurfer = WaveSurfer.create({
     barWidth: 3,
     cursorWidth: 2,
     fillParent: true,
+    height: 60,
     scrollParent: false
 });
 
@@ -43,6 +44,7 @@ var wavesurfer1 = WaveSurfer.create({
     barWidth: 3,
     cursorWidth: 2,
     fillParent: true,
+    height: 60,
     scrollParent: false
 });
 
@@ -72,6 +74,7 @@ var wavesurfer2 = WaveSurfer.create({
     barWidth: 3,
     cursorWidth: 2,
     fillParent: true,
+    height: 60,
     scrollParent: false
 });
 
@@ -101,6 +104,7 @@ var wavesurfer3 = WaveSurfer.create({
     barWidth: 3,
     cursorWidth: 2,
     fillParent: true,
+    height: 60,
     scrollParent: false
 });
 
